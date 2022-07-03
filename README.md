@@ -25,11 +25,13 @@ Hello, I'm Matheus. Welcome to my github profile!
 **You can contact me here:**
 <div>
 <a href = "mailto:math.across@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/matheus-andrucioli-de-carvalho-cruz-a804aa143" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/matheus-andrucioli-de-carvalho-cruz-a804aa143" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
   
 <div>
 <a href="https://github.com/MathXCruz">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathXCruz&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathXCruz&exclude_repo=Case_Estagio_Data_Science&layout=compact&langs_count=7&theme=dracula"/>
+</a>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MathXCruz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</a>
 </div>
