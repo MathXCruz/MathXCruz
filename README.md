@@ -1,4 +1,4 @@
-Hello, I'm Matheus. Welcome to my github profile! 
+Hello, I'm Matheus. Welcome to my github profile! Here you'll find some of the projects I did for training as a data science intern with an interest in developing my data engineering skills.
 
 **These are the languages and tools I use:**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
