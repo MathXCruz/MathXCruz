@@ -1,6 +1,6 @@
 Hello, I'm Matheus. Welcome to my github profile! Here you'll find some of the projects I do for training as a data science intern with an interest in developing my data engineering skills.
 
-**These are the languages and tools I use:**  
+**These are some of the languages and tools I use:**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" width="60" height="60"/>
