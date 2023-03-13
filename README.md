@@ -24,11 +24,3 @@ Hello, I'm Matheus. Welcome to my github profile! Here you'll find some of the p
 </div>
 
 <br />
-
-<div>
-<a href="https://github.com/MathXCruz">
-<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathXCruz&exclude_repo=Case_Estagio_Data_Science&layout=compact&langs_count=7&theme=dracula"/>
-</a>
-<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=MathXCruz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a>
-</div>
