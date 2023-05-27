@@ -1,4 +1,4 @@
-Hello, I'm Matheus. Welcome to my github profile! Here you'll find some of the projects I do for training.
+Hello, I'm Matheus. Welcome to my github profile! Here you'll find some of the projects I do for fun.
   
 **You can contact me here:**
 <div>
